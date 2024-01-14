@@ -6,7 +6,7 @@
 I'm a self-taught software developer and passionate learner with a broad interest in various fields such as science, politics, geography, theology, maths, biology, physics, and chemistry. My curiosity knows no bounds, and I believe in the power of continuous learning to fuel creativity.
 
 ## Education
-Currently studying management, I bring a unique blend of technical expertise and a strategic mindset to my projects. My educational journey complements my passion for software development and allows me to approach problems from multiple perspectives.
+Currently studying management, I bring a blend of technical expertise and a strategic mindset to my projects. My educational journey complements my passion for software development and allows me to approach problems from multiple perspectives.
 
 ## Technical Background
 I specialize in software development and have hands-on experience with various technologies. My journey began with self-teaching, and I've delved into linux server management and backend web development, showcasing my commitment to exploring diverse areas within the tech world.
@@ -70,7 +70,7 @@ I specialize in software development and have hands-on experience with various t
    My love for low-level programming and embedded systems ignited when I explored the fascinating world of Arduino. The ability to work with hardware and understand the intricacies of low-level programming was both challenging and incredibly rewarding.
 
    ## The Web Beckons
-   Returning to Python, I expanded my skill set to include web development. I dived into HTML and CSS, and as my curiosity grew, I explored networking, server management, and deployment strategies.
+   Returning to Python, I expanded my skill set to include web development. I dived into HTML and CSS, and as my curiosity grew, I have started exploring networking and its protocols, server management, and deployment strategies.
 
    ## Commitment to Django
    Currently, I'm committed to mastering the Django framework for full-stack development. Its robust features and elegant design align perfectly with my passion for building scalable and efficient web applications.
