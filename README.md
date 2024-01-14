@@ -42,12 +42,6 @@ I specialize in software development and have hands-on experience with various t
 
 #
 
-### 📺 Latest YouTube Videos
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somali99&show_icons=true&theme=gruvbox)
