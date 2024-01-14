@@ -1,4 +1,4 @@
-# 🏄‍♂️ Youssef Azaiez
+# 🌍🏕️🌐  Youssef Azaiez
 
 **`Digital Craftsman (Developer/Trail-Runner/Passionate Learner)`**
 
