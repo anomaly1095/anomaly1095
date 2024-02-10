@@ -44,7 +44,7 @@ I specialize in software development and have hands-on experience with various t
 
 ### 📊 Stats
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Somali99&show_icons=true&theme=gruvbox)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=anomali1095&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
