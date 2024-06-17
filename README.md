@@ -28,7 +28,7 @@ I specialize in software development and have hands-on experience with various t
 
 <img align="left" alt="C" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="[https://github.com/devicons/devicon/blob/v2.16.0/icons/aarch64/aarch64-original.svg](https://github.com/anomaly1095/anomaly1095/blob/master/ASM.png)" />
+<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://github.com/anomaly1095/anomaly1095/blob/master/ASM.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
