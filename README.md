@@ -1,5 +1,3 @@
-Here's a revised and shorter version of your GitHub "About Me" section, making it more concise and readable:
-
 ---
 
 # 🌍🏕️🌐 Youssef Azaiez
