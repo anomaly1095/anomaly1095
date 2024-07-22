@@ -1,6 +1,6 @@
 # 🌍🏕️🌐 Youssef Azaiez
 
-**`Digital Craftsman (Developer/Trail-Runner/Passionate Learner)`**
+**`From Metal to Mental (Developer/Trail-Runner/Passionate Learner)`**
 
 ## About Me
 I'm a passionate self-taught developer with a love for low-level programming. My journey started with Python and Django for server development, then transitioned to C and ARM assembly for firmware and bootloader development on ARM Cortex-M chips. I enjoy designing server applications, studying networking protocols, and have earned several certifications.
@@ -18,6 +18,7 @@ I'm a passionate self-taught developer with a love for low-level programming. My
 - [https://www.coursera.org/account/accomplishments/verify/9C53P5X29X52]
 
 Currently, I focus on writing firmware, bootloaders, HALs, linker scripts, and Makefiles entirely in ARM assembly and C.
+I'm passionate about all baremetal coding style wilth no layers of abstractions.
 
 ---
 
