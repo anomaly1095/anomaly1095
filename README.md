@@ -17,7 +17,7 @@ I'm a passionate self-taught developer with a love for low-level programming. My
 - [https://www.coursera.org/account/accomplishments/verify/EYK3GKRYV9YN]
 - [https://www.coursera.org/account/accomplishments/verify/9C53P5X29X52]
 
-Currently, I focus on writing firmware, bootloaders, HALs, linker scripts, and Makefiles entirely in ARM assembly and C.
+Currently, I focus on writing firmware, bootloaders, Startup and system initialization code, HALs, linker scripts, and Makefiles entirely in ARM assembly and C.
 I'm passionate about all baremetal coding style wilth no layers of abstractions.
 
 ---
