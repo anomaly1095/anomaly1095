@@ -3,8 +3,8 @@
 **`From Metal to Mental (Developer/Trail-Runner/Passionate Learner)`**
 
 ## About Me
-I'm a passionate self-taught developer with a love for low-level programming.I code in C and ARM assembly for firmware and bootloader development as well as peripherals initializationon ARM Cortex-M chips. 
-I'm passionate about designing servers, and baremetal coding style wilth no layers of abstractions.
+- I'm a passionate self-taught developer with a love for low-level programming.I code in C and ARM assembly for firmware and bootloader development as well as peripherals initializationon ARM Cortex-M chips. 
+- I enjoy designing servers and communication protocols, as well as baremetal coding style wilth no layers of abstractions.
 
 ## Technical Background
 - **Started with:** Python, Django
