@@ -1,32 +1,33 @@
-# 🌍🏕️🌐  Youssef Azaiez
+Here's a revised and shorter version of your GitHub "About Me" section, making it more concise and readable:
+
+---
+
+# 🌍🏕️🌐 Youssef Azaiez
 
 **`Digital Craftsman (Developer/Trail-Runner/Passionate Learner)`**
 
 ## About Me
-I'm a self-taught software developer and passionate learner with a broad interest in various fields such as science, politics, geography, theology, maths, biology, physics, and chemistry. My curiosity knows no bounds, and I believe in the power of continuous learning to fuel creativity.
-
-## Education
-Currently studying management, I bring a blend of technical expertise and a strategic mindset to my projects. My educational journey complements my passion for software development and allows me to approach problems from multiple perspectives.
+I'm a passionate self-taught developer with a love for low-level programming. My journey started with Python and Django for server development, then transitioned to C and ARM assembly for firmware and bootloader development on ARM Cortex-M chips. I enjoy designing server applications, studying networking protocols, and have earned several certifications.
 
 ## Technical Background
-I specialize in software development and have hands-on experience with various technologies. My journey began with self-teaching, and I've delved into linux server management and backend web development, showcasing my commitment to exploring diverse areas within the tech world.
+- **Started with:** Python, Django
+- **Fell in love with:** C, ARM Assembly, Arduino
+- **Designed:** Server applications, chat systems
+- **Studied:** Networking protocols
+- **Certified in:**
+- [https://www.coursera.org/account/accomplishments/verify/KA3GSYPZYX92]
+- [https://www.coursera.org/account/accomplishments/verify/7F6CBSP9U8RD]
+- [https://www.coursera.org/account/accomplishments/verify/QUZ8LSCXYYP7]
+- [https://www.coursera.org/account/accomplishments/verify/EYK3GKRYV9YN]
+- [https://www.coursera.org/account/accomplishments/verify/9C53P5X29X52]
 
-   <!-- <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p> -->
+Currently, I focus on writing firmware, bootloaders, HALs, linker scripts, and Makefiles entirely in ARM assembly and C.
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://github.com/anomaly1095/anomaly1095/blob/master/ASM.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -40,41 +41,33 @@ I specialize in software development and have hands-on experience with various t
 
 <br />
 
-#
+---
 
 ### 📊 Stats
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=anomaly1095&show_icons=true&bg_color=00000000)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anomaly1095&show_icons=true&bg_color=00000000)
 
-#
+---
 
 <details>
- <summary><h3>👨‍💻 Youssef's Coding Journey</h3></summary>
-   # My Journey in IT 🚀
-
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    ## Early Discovery
-   My fascination with the world of Information Technology began in my first year of college, even though my major was in management. It was during this time that I stumbled upon the power and possibilities of IT.
+   My fascination with IT began in college while majoring in management. 
 
    ## The Python Leap
-   I took my first steps into the programming world by diving into Python. Its simplicity and versatility sparked my curiosity and laid the foundation for my understanding of programming concepts.
+   I started with Python and Django for web development.
 
-   ## Exploring the Command Line
-   From Python, I ventured into PowerShell and later into the world of C. These languages not only introduced me to the intricacies of coding but also provided insights into how computers work at a fundamental level. It was here that I delved into data structures and algorithms, enriching my problem-solving skills.
+   ## Command Line and Low-Level Marvels
+   I then explored C, PowerShell, Linux, and Arduino, diving deep into low-level programming.
 
-   ## Embracing Open Source and Linux
-   As I deepened my technical journey, I transitioned to using Linux as my primary operating system. Embracing open source became second nature, and it has been an integral part of my workflow ever since.
+   ## Networking and Server Development
+   I designed server applications and studied networking protocols using c and unix POSIX APIs, earning certifications along the way.
 
-   ## Low-Level Marvels with Arduino
-   My love for low-level programming and embedded systems ignited when I explored the fascinating world of Arduino. The ability to work with hardware and understand the intricacies of low-level programming was both challenging and incredibly rewarding.
+   ## Current Focus
+   I'm now fully dedicated to systems engineering, writing firmware, bootloaders, and HALs in ARM assembly and C.
+   https://github.com/anomaly1095/systemZ
+</details>
 
-   ## The Web Beckons
-   Returning to Python, I expanded my skill set to include web development. I dived into HTML and CSS, and as my curiosity grew, I have started exploring networking and its protocols, server management, and deployment strategies.
+---
 
-   ## Commitment to Django
-   Currently, I'm committed to mastering the Django framework for full-stack development. Its robust features and elegant design align perfectly with my passion for building scalable and efficient web applications.
-
-   My journey is an ongoing adventure, and I'm always excited to learn and explore new horizons in the ever-evolving field of technology.
-
-<!-- [website]: https://fkcodes.com -->
 
